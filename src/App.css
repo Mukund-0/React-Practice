@@ -7,10 +7,12 @@
 
 body{
   background: #000000;
-  
-
+  color: #ffffff;
 }
 
+.bg-color{
+  background: #ffffff;
+}
 
 .logo {
   height: 6em;
